@@ -1,0 +1,41 @@
+.section-header {
+    width: 100%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: 100%;
+
+    background-image: url('../assets/header.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 5vh;
+
+    transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+}
+
+.image-header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;700&display=swap');
+
+.titulo-header {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight: 700;
+}
+
+.links-nav {
+    font-family: 'Montserrat', sans-serif;
+    color: #56484b;
+    font-weight: 700;
+}
+
+.bg-primary-yellow {
+    background: -o-linear-gradient(241.82deg, #f6a713 9.05%, #d28901 76.74%);
+    background: linear-gradient(208.18deg, #f6a713 9.05%, #d28901 76.74%);
+  }
