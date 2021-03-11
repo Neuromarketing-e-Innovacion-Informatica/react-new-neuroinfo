@@ -1,6 +1,6 @@
 import React from 'react'
 
-import jobs from '../assets/img/illustrations/jobs.png';
+import job from '../assets/img/illustrations/job.png';
 
 export const About = () => {
     return (
@@ -13,7 +13,7 @@ export const About = () => {
                     <div className="container">
                         <div className="row flex-center">
                             <div className="col-md-5 order-md-1 text-center text-md-end">
-                                <img className="img-fluid mb-4" src={jobs} width="450" alt="" />
+                                <img className="img-fluid mb-4" src={job} width="450" alt="" />
                             </div>
                             <div className="col-md-5 text-center text-md-start">
                                 <h6 className="fw-bold fs-2 fs-lg-3 display-3 lh-sm">Cómo trabajamos</h6>

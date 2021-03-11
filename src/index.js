@@ -4,6 +4,7 @@ import App from './App'
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/css/theme.css';
+import './assets/css/custom.css';
 
 
 ReactDOM.render(

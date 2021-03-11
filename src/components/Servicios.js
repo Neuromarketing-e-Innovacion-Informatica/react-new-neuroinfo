@@ -1,13 +1,15 @@
 import React from 'react'
 
-import category_bg from '../assets/img/illustrations/Category-bg.png';
+import web from '../assets/img/iconos/web.png';
+import app_web from '../assets/img/iconos/app_web.png';
+import app_mobile from '../assets/img/iconos/app_mobile.png';
+import asesorias from '../assets/img/iconos/asesorias.png';
+import asistencia from '../assets/img/iconos/asistencia.png';
+import redes from '../assets/img/iconos/redes.png';
 
 export const Servicios = () => {
     return (
-        <section className="py-5">
-            <div className="bg-holder d-none d-sm-block" style={{backgroundImage: `url(${category_bg})`, backgroundPosition: "right top", backgroundSize: "200px 320px"}}>
-            </div>
-
+        <section className="py-5" id="servicios">
 
             <div className="container">
                 <div className="row justify-content-center">
@@ -22,7 +24,7 @@ export const Servicios = () => {
                             <div className="col-sm-6 col-lg-4 pb-lg-6 px-lg-4 pb-4">
                                 <div className="card py-4 shadow-sm h-100 hover-top">
                                     <div className="text-center">
-                                        <img src="assets/img/illustrations/finance.png" height="120" alt="" />
+                                        <img src={web} height="120" alt="" />
                                         <div className="card-body px-2">
                                             <h6 className="fw-bold fs-1 heading-color">Desarrollo de páginas web informativas</h6>
                                             <p className="mb-0 card-text">100 open position</p>
@@ -33,7 +35,7 @@ export const Servicios = () => {
                             <div className="col-sm-6 col-lg-4 pb-lg-6 px-lg-4 pb-4">
                                 <div className="card py-4 shadow-sm h-100 hover-top">
                                     <div className="text-center">
-                                        <img src="assets/img/illustrations/design.png" height="120" alt="" />
+                                        <img src={app_web} height="120" alt="" />
                                         <div className="card-body px-2">
                                             <h6 className="fw-bold fs-1 heading-color">Desarrollo de aplicaciones web</h6>
                                             <p className="mb-0 card-text">100 open position</p>
@@ -44,7 +46,7 @@ export const Servicios = () => {
                             <div className="col-sm-6 col-lg-4 pb-lg-6 px-lg-4 pb-4">
                                 <div className="card py-4 shadow-sm h-100 hover-top">
                                     <div className="text-center">
-                                        <img src="assets/img/illustrations/programmer.png" height="120" alt="" />
+                                        <img src={app_mobile} height="120" alt="" />
                                         <div className="card-body px-2">
                                             <h6 className="fw-bold fs-1 heading-color">Desarrollo de aplicaciones móviles</h6>
                                             <p className="mb-0 card-text">100 open position</p>
@@ -55,7 +57,7 @@ export const Servicios = () => {
                             <div className="col-sm-6 col-lg-4 pb-lg-6 px-lg-4 pb-4">
                                 <div className="card py-4 shadow-sm h-100 hover-top">
                                     <div className="text-center">
-                                        <img src="assets/img/illustrations/production.png" height="120" alt="" />
+                                        <img src={asesorias} height="120" alt="" />
                                         <div className="card-body px-2">
                                             <h6 className="fw-bold fs-1 heading-color">Asesorías</h6>
                                             <p className="mb-0 card-text">100 open position</p>
@@ -66,7 +68,7 @@ export const Servicios = () => {
                             <div className="col-sm-6 col-lg-4 pb-lg-6 px-lg-4 pb-4">
                                 <div className="card py-4 shadow-sm h-100 hover-top">
                                     <div className="text-center">
-                                        <img src="assets/img/illustrations/education.png" height="120" alt="" />
+                                        <img src={asistencia} height="120" alt="" />
                                         <div className="card-body px-2">
                                             <h6 className="fw-bold fs-1 heading-color">Asistencia técnicas de nuestros productos</h6>
                                             <p className="mb-0 card-text">100 open position</p>
@@ -77,7 +79,7 @@ export const Servicios = () => {
                             <div className="col-sm-6 col-lg-4 pb-lg-6 px-lg-4 pb-4">
                                 <div className="card py-4 shadow-sm h-100 hover-top">
                                     <div className="text-center">
-                                        <img src="assets/img/illustrations/consultancy.png" height="120" alt="" />
+                                        <img src={redes} height="120" alt="" />
                                         <div className="card-body px-2">
                                             <h6 className="fw-bold fs-1 heading-color">Manejo de redes sociales</h6>
                                             <p className="mb-0 card-text">100 open position</p>
