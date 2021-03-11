@@ -1,8 +1,8 @@
 import React from 'react'
 
-import hero_bg from '../assets/img/illustrations/hero_bg.png';
-import bg from '../assets/img/illustrations/bg_yellow.png';
-import about from '../assets/img/illustrations/about.png';
+import hero_bg from '../../assets/img/illustrations/hero_bg.png';
+import bg from '../../assets/img/illustrations/bg_yellow.png';
+import about from '../../assets/img/illustrations/about.png';
 
 export const Home = () => {
     return (

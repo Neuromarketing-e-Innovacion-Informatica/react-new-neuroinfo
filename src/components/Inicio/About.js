@@ -1,6 +1,6 @@
 import React from 'react'
 
-import job from '../assets/img/illustrations/job.png';
+import job from '../../assets/img/illustrations/job.png';
 
 export const About = () => {
     return (

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import contacto from '../assets/img/illustrations/contact.png';
+import contacto from '../../assets/img/illustrations/contact.png';
 
 export const Contacto = () => {
     return (

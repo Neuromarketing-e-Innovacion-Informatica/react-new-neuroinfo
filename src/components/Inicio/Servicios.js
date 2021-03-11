@@ -1,11 +1,11 @@
 import React from 'react'
 
-import web from '../assets/img/iconos/web.png';
-import app_web from '../assets/img/iconos/app_web.png';
-import app_mobile from '../assets/img/iconos/app_mobile.png';
-import asesorias from '../assets/img/iconos/asesorias.png';
-import asistencia from '../assets/img/iconos/asistencia.png';
-import redes from '../assets/img/iconos/redes.png';
+import web from '../../assets/img/iconos/web.png';
+import app_web from '../../assets/img/iconos/app_web.png';
+import app_mobile from '../../assets/img/iconos/app_mobile.png';
+import asesorias from '../../assets/img/iconos/asesorias.png';
+import asistencia from '../../assets/img/iconos/asistencia.png';
+import redes from '../../assets/img/iconos/redes.png';
 
 export const Servicios = () => {
     return (
