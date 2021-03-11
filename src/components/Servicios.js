@@ -12,7 +12,7 @@ export const Servicios = () => {
             <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-md-9 col-lg-6 text-center mb-3">
-                        <h5 className="fw-bold fs-3 fs-lg-5 lh-sm mb-3">Browse jobs by category</h5>
+                        <h5 className="fw-bold fs-3 fs-lg-5 lh-sm mb-3">Servicios</h5>
                         <p className="mb-5">Choose from the list of most popular categories</p>
                     </div>
                 </div>
@@ -24,7 +24,7 @@ export const Servicios = () => {
                                     <div className="text-center">
                                         <img src="assets/img/illustrations/finance.png" height="120" alt="" />
                                         <div className="card-body px-2">
-                                            <h6 className="fw-bold fs-1 heading-color">Accounting</h6>
+                                            <h6 className="fw-bold fs-1 heading-color">Desarrollo de páginas web informativas</h6>
                                             <p className="mb-0 card-text">100 open position</p>
                                         </div>
                                     </div>
@@ -35,7 +35,7 @@ export const Servicios = () => {
                                     <div className="text-center">
                                         <img src="assets/img/illustrations/design.png" height="120" alt="" />
                                         <div className="card-body px-2">
-                                            <h6 className="fw-bold fs-1 heading-color">Design/Creative</h6>
+                                            <h6 className="fw-bold fs-1 heading-color">Desarrollo de aplicaciones web</h6>
                                             <p className="mb-0 card-text">100 open position</p>
                                         </div>
                                     </div>
@@ -46,7 +46,7 @@ export const Servicios = () => {
                                     <div className="text-center">
                                         <img src="assets/img/illustrations/programmer.png" height="120" alt="" />
                                         <div className="card-body px-2">
-                                            <h6 className="fw-bold fs-1 heading-color">Programmer</h6>
+                                            <h6 className="fw-bold fs-1 heading-color">Desarrollo de aplicaciones móviles</h6>
                                             <p className="mb-0 card-text">100 open position</p>
                                         </div>
                                     </div>
@@ -57,7 +57,7 @@ export const Servicios = () => {
                                     <div className="text-center">
                                         <img src="assets/img/illustrations/production.png" height="120" alt="" />
                                         <div className="card-body px-2">
-                                            <h6 className="fw-bold fs-1 heading-color">Production</h6>
+                                            <h6 className="fw-bold fs-1 heading-color">Asesorías</h6>
                                             <p className="mb-0 card-text">100 open position</p>
                                         </div>
                                     </div>
@@ -68,7 +68,7 @@ export const Servicios = () => {
                                     <div className="text-center">
                                         <img src="assets/img/illustrations/education.png" height="120" alt="" />
                                         <div className="card-body px-2">
-                                            <h6 className="fw-bold fs-1 heading-color">Education</h6>
+                                            <h6 className="fw-bold fs-1 heading-color">Asistencia técnicas de nuestros productos</h6>
                                             <p className="mb-0 card-text">100 open position</p>
                                         </div>
                                     </div>
@@ -79,7 +79,7 @@ export const Servicios = () => {
                                     <div className="text-center">
                                         <img src="assets/img/illustrations/consultancy.png" height="120" alt="" />
                                         <div className="card-body px-2">
-                                            <h6 className="fw-bold fs-1 heading-color">Consultancy</h6>
+                                            <h6 className="fw-bold fs-1 heading-color">Manejo de redes sociales</h6>
                                             <p className="mb-0 card-text">100 open position</p>
                                         </div>
                                     </div>

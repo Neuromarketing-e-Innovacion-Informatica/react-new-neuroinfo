@@ -3490,6 +3490,11 @@ fieldset:disabled .btn {
   background-color: #1F3A63;
   border-color: #1F3A63;
 }
+.btn-enviar {
+  color: #fff;
+  background-color: #f6a713;
+  border-color: #f6a713;
+}
 
 .btn-primary:hover {
   color: #fff;
