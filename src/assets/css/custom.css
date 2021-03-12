@@ -39,3 +39,7 @@
 .bg-neuro {
 	background-color: #f6a713 !important;
 }
+
+.tituloTexto {
+	z-index: 1000;
+}
