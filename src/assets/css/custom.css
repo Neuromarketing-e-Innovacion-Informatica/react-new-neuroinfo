@@ -23,4 +23,19 @@
 
 .bg-semiwhite {
 	background-color: rgba(255, 255, 255, 0.6) !important;
-  }
+}
+
+.service-decoration {
+	font-weight: 600;
+	color: #f6a713;
+}
+
+.btn-vermas {
+	color: #fff;
+	background-color: #56484b;
+	border-color: #56484b;
+}
+
+.bg-neuro {
+	background-color: #f6a713 !important;
+}

@@ -35,7 +35,9 @@ export const Home = () => {
                         <div className="col-md-5 order-md-0 text-center text-md-start"><img className="img-fluid mb-4" src={about} width="450" alt="" /></div>
                         <div className="col-md-5 text-center text-md-start">
                         <h6 className="fw-bold fs-2 fs-lg-3 display-3 lh-sm">Sobre Nosotros</h6>
-                        <p className="text-justify my-4 pe-xl-8">Somos, una empresa que buscamos la excelencia y la innovación en redes informáticas, conectando las necesidades de los clientes con innovaciones abarcando amplios niveles de estudio combinado la psicología y la informática a disposición de nuestro cliente. </p>
+                        <p className="text-justify my-4 pe-xl-8">Somos, una empresa que busca la excelencia y la innovación en redes informáticas, conectando las necesidades de los clientes con innovaciones abarcando amplios niveles de estudio combinando la psicología y la informática a disposición de nuestro cliente. </p>
+                        <p className="text-justify my-4 pe-xl-8">Actualmente nos encontramos trabajando en la Región de Ñuble, en la ciudad de Chillán.</p>
+
                         </div>
                     </div>
                 </div>

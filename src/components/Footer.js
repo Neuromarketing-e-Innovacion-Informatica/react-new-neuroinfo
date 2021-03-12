@@ -4,14 +4,14 @@ import footer from '../assets/img/illustrations/footer.png'
 
 export const Footer = () => {
     return (
-        <section className="py-8">
+        <section className="">
 
             <div className="bg-holder" style={{backgroundImage: `url(${footer})`, backgroundPosition: "center", backgroundSize: "cover"}}>
             </div>
 
             <div className="container">
                 <div className="row justify-content-lg-between py-8">
-                    <div className="col-md-6 mb-3">
+                    <div className="col-md-6">
                         <h5 className="mb-5 text-white">WEB</h5>
                         <ul className="list-unstyled mb-md-4 mb-lg-0">
                             <li className="mb-3"><a className="text-light text-decoration-none" href="#!">Inicio</a></li>
@@ -19,7 +19,7 @@ export const Footer = () => {
                             <li className="mb-3"><a className="text-light text-decoration-none" href="#!">Contactos</a></li>
                         </ul>
                     </div>
-                    <div className="col-md-6 mb-3">
+                    <div className="col-md-6">
                         <h5 className="mb-5 text-white">REDES</h5>
                         <ul className="list-unstyled mb-md-4 mb-lg-0">
                             <li className="mb-3"><a className="text-light text-decoration-none" href="#!">Facebook</a></li>
@@ -28,8 +28,13 @@ export const Footer = () => {
                         </ul>
                     </div>
                 </div>
+                <div className="row justify-content-center mb-2">
+                    <div className="col-auto">
+                        <p className="mb-0 text-white my-2 text-center">Región de Ñuble, Chillán.</p>
+                    </div>
+                </div>
                 <div className="row flex-center">
-                    <div className="col-auto my-4">
+                    <div className="col-auto my-2">
                         <ul className="list-unstyled list-inline">
                             <li className="list-inline-item me-3"><a className="text-decoration-none" target="_blank" without="true" rel="noreferrer" href="https://www.facebook.com/neuroinformatics">
                                 <svg className="bi bi-facebook" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#ffffff" viewBox="0 0 16 16">
@@ -42,9 +47,9 @@ export const Footer = () => {
                         </ul>
                     </div>
                 </div>
-                <div className="row justify-content-center pb-5">
+                <div className="row justify-content-center">
                     <div className="col-auto mb-2">
-                    <p className="mb-0 fs--1 text-white my-2 text-center">&copy; Web Desarrollada por Neuroinformatics</p>
+                        <p className="mb-0 fs--1 text-white my-2 text-center">&copy; Web Desarrollada por Neuroinformatics</p>
                     </div>
                 </div>
             </div>
