@@ -19,7 +19,7 @@ export const Home = () => {
                 <div className="container">
                     <div className="row align-items-center min-vh-75 min-vh-md-100">
                         <div className="col-md-7 col-lg-6 py-6 text-sm-start text-center">
-                            <h1 className="mt-6 mb-sm-4 display-2 fw-semi-bold lh-sm fs-4 fs-lg-6 fs-xxl-8 tituloTexto">NeuroInformatics</h1>
+                            <h1 className="mt-6 mb-sm-4 display-2 fw-semi-bold lh-sm fs-4 fs-lg-6 fs-xxl-8 tituloTexto">Neuroinformatics</h1>
                             <p className="mb-4 fs-1 tituloTexto">Dedicados a crear el mejor producto/servicio para nuestros clientes.</p>
                         </div>
                     </div>
