@@ -19,7 +19,7 @@ export const Tecnico = () => {
                     <div className="my-6">
                         <div className="row">
                             <div className="col-md-10 offset-md-1">
-                                <h2>Manejo de redes sociales</h2>
+                                <h2>Servicio técnico</h2>
                                 <hr/>
                                 <p className="text-justify">Te ofrecemos este servicio para cuando tengas problemas con tu computadora, si necesitara mantención, armado desde cero, cambio de pasta térmica, limpieza, etc., contamos con todo el equipo necesario para volver a darle vida a tu herramienta.</p>
 
