@@ -47,6 +47,11 @@ export const Footer = () => {
                         </ul>
                     </div>
                 </div>
+                <div className="row">
+                    <div className="col-md-4 offset-md-4 text-center">
+                        <a href="#home" className="btn btn-block btn-white texto-btnsubir">Volver arriba</a>
+                    </div>
+                </div>
                 <div className="row justify-content-center">
                     <div className="col-auto mb-2">
                         <p className="mb-0 fs--1 text-white my-2 text-center">&copy; Web Desarrollada por Neuroinformatics</p>

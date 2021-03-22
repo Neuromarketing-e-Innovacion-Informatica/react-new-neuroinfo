@@ -43,3 +43,11 @@
 .tituloTexto {
 	z-index: 1000;
 }
+
+.texto-btnsubir {
+	color: #f6a713;
+}
+
+.btn-white {
+	background-color: #ffffff !important;
+}

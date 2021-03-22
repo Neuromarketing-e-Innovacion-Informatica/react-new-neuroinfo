@@ -1,3 +1,5 @@
+import React, { useEffect } from 'react';
+import ReactGa from 'react-ga';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 import { Inicio } from './Inicio';
@@ -11,6 +13,12 @@ import { Redes } from './components/Servicios/Redes';
 import { NoPage } from './NoPage';
 
 function App() {
+	useEffect(() => {
+		ReactGa.initialize('G-7LBDTWNP3V')
+		//To report page view
+		ReactGa.pageview(window.location.pathname + window.location.search)
+	}, [])
+
 	return (
 		<Router>
 			<main className="main" id="top">
