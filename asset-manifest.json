@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c162113.chunk.css",
+    "main.js": "/static/js/main.0ee3ddc5.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.47269c12.js",
+    "static/css/2.2ee6fd2a.chunk.css": "/static/css/2.2ee6fd2a.chunk.css",
+    "static/js/2.bfb61705.chunk.js": "/static/js/2.bfb61705.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.bfb61705.chunk.js.LICENSE.txt": "/static/js/2.bfb61705.chunk.js.LICENSE.txt",
+    "static/media/404.6ff89c92.png": "/static/media/404.6ff89c92.png",
+    "static/media/theme.css": "/static/media/CircularStd-MediumItalic.bfe15859.ttf",
+    "static/media/about.5ea463e0.png": "/static/media/about.5ea463e0.png",
+    "static/media/contact.67a7c08a.png": "/static/media/contact.67a7c08a.png",
+    "static/media/footer.a0c634eb.png": "/static/media/footer.a0c634eb.png",
+    "static/media/hero_bg.2434154f.png": "/static/media/hero_bg.2434154f.png",
+    "static/media/job.51cc9e08.png": "/static/media/job.51cc9e08.png",
+    "static/media/logo.fc4e54c1.png": "/static/media/logo.fc4e54c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47269c12.js",
+    "static/css/2.2ee6fd2a.chunk.css",
+    "static/js/2.bfb61705.chunk.js",
+    "static/css/main.0c162113.chunk.css",
+    "static/js/main.0ee3ddc5.chunk.js"
+  ]
+}
